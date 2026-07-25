@@ -1,0 +1,1 @@
+dev_OppCalculator_Service.calculateOpps('Manager');
